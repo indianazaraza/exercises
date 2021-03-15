@@ -1,0 +1,36 @@
+<?xml version= "1.0" encoding= "utf-8" ?>
+<Employees>
+  <Employee id= "1">
+    <Name>Gerardo</Name>
+    <LastName>Rodríguez</LastName>
+    <City>Buenos Aires</City>    
+    <Address>Calle 48 e/156 y 157</Address>
+    <Key>3</Key>
+    <Department>Gerencia</Department>
+    <YearsService>3</YearsService>
+    <Salary>86.000</Salary>  
+    <SocialSecurity>24-454685547-2</SocialSecurity>      
+  </Employee>
+  <Employee id= "2">
+    <Name>Luis</Name>
+    <LastName>Lopez</LastName>
+    <City>La Plata</City>    
+    <Address>Calle 15 e/13 y 14</Address>
+    <Key>1</Key>
+    <Department>Atención al cliente</Department>
+    <YearsService>1</YearsService>
+    <Salary>50.000</Salary>  
+    <SocialSecurity>37-191686351-7</SocialSecurity>    
+  </Employee>
+  <Employee id= "3">
+    <Name>Félix</Name>
+    <LastName>Márquez</LastName>
+    <City>Quilmes</City>    
+    <Address>Calle Alem e/27 y 28</Address>
+    <Key>2</Key>
+    <Department>Logística</Department>
+    <YearsService>12</YearsService>
+    <Salary>67.500</Salary>  
+    <SocialSecurity>17-549781564-9</SocialSecurity>      
+  </Employee>   
+</Employees>
